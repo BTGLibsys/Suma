@@ -16,7 +16,7 @@
     "core-js": "^3.4.4",
     "device-detector-js": "^2.2.1",
     "localforage": "^1.7.3",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.17",
     "node-sass": "^4.13.1",
     "pluralize": "^8.0.0",
     "sass-loader": "^8.0.2",
