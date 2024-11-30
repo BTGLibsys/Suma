@@ -12,7 +12,7 @@
   },
   "dependencies": {
     "@babel/polyfill": "^7.8.7",
-    "axios": "^0.19.2",
+    "axios": "^1.7.8",
     "core-js": "^3.4.4",
     "device-detector-js": "^2.2.1",
     "localforage": "^1.7.3",
